@@ -1,32 +1,33 @@
 # Site
-repository: sproogen/resume-theme
+repository: FrancXPT/FrancXPT.github.io
 favicon: images/favicon.ico
+darkmode: false
 
 # Personal info
-name: Brett Harris
-title: Senior Network System Administrator
-email: brett.h@email.co.uk
-website: www.github.com/sproogen/resume-theme
+name: Achraf Benbamoula
+title: Software Developer
+email: achrafbenbamoula@gmail.com
+website: francxpt.github.io
 
 # Social links
-twitter_username: facespics
-github_username:  sproogen
+twitter_username: FrancXPT
+github_username:  FrancXPT
 # dribbble_username: jekyll
 # facebook_username: jekyll
 # flickr_username: jekyll
-instagram_username: chillwildlife
-linkedin_username: jameswgrant
+instagram_username: achrafbamoula
+linkedin_username: achraf-benbamoula-271407197
 # pinterest_username: jekyll
-youtube_username: globalmtb
+# youtube_username: globalmtb
 # googleplus_username: +jekyll
 
 # About Section
 # about_title: About Me
-about_profile_image: images/profile.jpg
+about_profile_image: images/download.jfif
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Brett and I'm a senior network system administrator. As well as administrating systems I also have experience making software and web apps. I have worked at a number of companies gaining teamwork and leadership skills.
+  Hi, My name is Achraf. I am a Software Developper. I want to be at the bleeding edge of technology. 📚📈🔬, and I'm also a competitive programmer 🤩 🎈. I have worked at a number of companies gaining teamwork and leadership skills.
 
-  I am most skilled in: <mark>AWS</mark> and <mark>Eating Pizza</mark>
+  I am most skilled in: <mark>.Net</mark> and <mark>Python</mark>
 
 # Projects Section
 # projects_title: Projects
@@ -40,11 +41,11 @@ about_content: | # this will include new lines to allow paragraphs
 # More Section
 # more_title: A Little More About Me
 more_content: | # this will include new lines to allow paragraphs
-  Alongside my interests in networks and software engineering some of my other interests and hobbies are:
-   - Rock climbing
+  Alongside my interests in Devloppment and Reading Documentations some of my other interests and hobbies are:
+   - Mountain Biking
    - Gaming
-   - Knitting
-   - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
+   - [Pentesting](https://www.youtube.com/watch?v=rnmcRTnTNC8)
+   - Eating
 
 # Footer
 footer_show_references: true

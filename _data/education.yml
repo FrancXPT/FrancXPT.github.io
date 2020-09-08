@@ -1,10 +1,39 @@
-- layout: left
-  name: Harvard University
-  dates: 2010 - 2013
-  qualification: BSc Computer Science
+- layout: top
+  name: Agadir Specialized Institute of Applied Technology (ISTA)
+  dates: 2018 - 2019
+  qualification: (TS) SOFTWARE DEVELOPER
   quote: >
-    Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
+    Mastered Modules:
   description: | # this will include new lines to allow paragraphs
-    During my time at Harvard I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance.
+    • Client / server application development.
 
-    I spent a lot of my free time as a committee member of the *Harvard Mountaineering Club* taking on roles such as *Trip Secretary* and *Vice-President*.
+    • Web development on client / server side.
+    
+    • Development of mobile applications.
+    - layout: left
+
+- layout: top
+  name: Agadir Specialized Institute of Applied Technology (ISTA)
+  dates: 2017 - 2018
+  qualification: (TS) SOFTWARE DEVELOPER
+  quote: >
+    Mastered Modules:
+  description: | # this will include new lines to allow paragraphs
+    • Office automation.
+    
+    • Structured programming.
+
+    • Event and Object Oriented programming.
+
+    • Object oriented analysis and design.
+    
+    
+- layout: top
+  name: Faculty of Sciences - Agadir
+  dates: 2015 - 2017
+  qualification: 'Sector: Physical sector'
+
+- layout: top
+  name: Ibn Tofail High School - Agadir
+  dates: 2015
+  qualification: baccalaureate science physics
